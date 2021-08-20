@@ -1,4 +1,4 @@
-#Zuri Task 2 - Resume
+# Zuri Task 2 - Resume
 
 This repository contains the task 2 of the Zuri internship program of a resume website built with HTML, CSS, Bootstrap and Javascript.
 
